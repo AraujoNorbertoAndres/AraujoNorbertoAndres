@@ -1,7 +1,7 @@
 * 👋 Hola soy @AraujoNorbertoAndres
 
-* 👀 Estoy interesado en la Programación, las Matemáticas y recientemente por Eectronica. Dentro del mundo de la programación los lenguajes que me causan mayor curiosidad y 
-por los que comencé en este camino fueron Java y Python
+* 👀 Estoy interesado en la Programación, las Matemáticas y recientemente por Electronica. Dentro del mundo de la programación los lenguajes que me causan mayor curiosidad y 
+por los que comencé en este camino fueron Python y Java 
 
 * 🌱 Actualmente me encuentro estudiando la Tecnicatura Superior en Programación en la Universidad tecnologica Nacional de Argentina y en paralelo haciendo 
 los cursos correspondientes a carrera de Java Developer Engineer en el instituto Educacion IT.
