@@ -6,7 +6,7 @@
 los cursos correspondientes a carrera de Java Developer Engineer en el instituto Educacion IT.
 
 * 🥳 Egresado de la fundacion Pescar-Santander y JP Morgan 
-    -Full stack-web (html5-css-JavaScript-MongoDB-React)
+    -Full Stack-Web (Html5-css-JavaScript-MongoDB-React)
 
 * 💞️ En estos momentos me encuentro con ganas de conseguir mi primer empleo en el mundo IT, para aplicar lo aprendido y mejorar mis habilidades.
 * 📫 Mi mail de contacto es: andres.n.araujo@gmail.com
